@@ -11,7 +11,7 @@
 
 ## Purpose and Background
 
-	We have been helping Steve in his efforts to analyze stock performance for his parents. Throughout Module 2, we created analyses for one stock, and then multiple stocks. Now, Steve wants us to analyze stock performance for thousands of stocks in 2017 and 2018. Given this increase in data that needs to be processed, we needed to refactor the original code so it can run faster, and more efficiently. Refactoring is critical when attempting to uncover the best way to achieve your goal. 
+We have been helping Steve in his efforts to analyze stock performance for his parents. Throughout Module 2, we created analyses for one stock, and then multiple stocks. Now, Steve wants us to analyze stock performance for thousands of stocks in 2017 and 2018. Given this increase in data that needs to be processed, we needed to refactor the original code so it can run faster, and more efficiently. Refactoring is critical when attempting to uncover the best way to achieve your goal. 
 
 # Results
 
@@ -276,6 +276,18 @@ The project goal for Steve was accomplished. One of our goals was to make sure t
 
 # Summary
 
+[In order to best answer the following questions, I needed to do some research, here is where I found the following information](https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software#:~:text=Advantages%3A%201.%20Refactoring%20is%20a%20really%20good%20weapon,It%27s%20risky%20when%20the%20application%20is%20big%202.)
+
 ## Advantages and Disadvantages of refactoring code in general
 
+### General Advantages
+
+The main advantages to refactoring code is that it can result in a simplified code, which will make the code easier to adjust in the future, and easier for others to understand. Additionally, it will be easier to identify bugs in your code and will allow the code to run faster, and use less memory. 
+
+### General Disadvantages
+
+The main disadvantages based on my research, arise when working on the code is dependent on limited resources. In other words, refactoring may require additional time or budget, so you may not be able to refactor if you do not have the time and budget to allocate to refactoring. Additionally, refactoring may jeopardize the functionality of the code if the code you are refactoring is something you don't understand completely. You can get around this last disadvantage by saving copies of code, and refactoring the copies so you can always revert back to the original, functional code.
+
 ## How do these pros and cons apply to refactoring the original VBA script?
+
+
