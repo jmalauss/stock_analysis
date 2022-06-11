@@ -1,12 +1,5 @@
 # stock_analysis
 
-# Links
-
-
-
-
-
-
 # Overview of Project
 
 ## Purpose and Background
