@@ -283,4 +283,7 @@ The main disadvantages based on my research, arise when working on the code is d
 
 ## How do these pros and cons apply to refactoring the original VBA script?
 
+Application of pros and cons to Module 2 Challenge:
+
+Mainly, the refactored code ran faster and more efficiently. We know this because the refactored subrountine is able to process more data, in less time than the original subrountine. Another application relates to the disadvantages of refactoring code: I found myself saving and copying code that was functional. In other words, after running code and seeing that it successfully accomplished the task, I copy and pasted that code into NotePad, or commented out the code that I knew worked. This allowed me to revert any changes I made that jeopardized the functionality of the subroutine. Additionally, when I first ran my refactored code, there was an error message. It took me to the line of code where I could make the adjustment. It was very clear to notice that "tickerVolume" should have been "tickerVolumes" - the refactoring of the code made it easy for me to identify the error in my code. 
 
