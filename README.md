@@ -2,10 +2,10 @@
 
 # Links
 
-https://github.com/jmalauss/stock_analysis/blob/c1fe8ab9093fb8504474b8c461e104cfb402768a/Sub_yearValueAnalysis_2017.png
-https://github.com/jmalauss/stock_analysis/blob/c1fe8ab9093fb8504474b8c461e104cfb402768a/Sub_yearValueAnalysis_2018.png
-https://github.com/jmalauss/stock_analysis/blob/c1fe8ab9093fb8504474b8c461e104cfb402768a/Sub_AllStocksAnalysis_2017.png
-https://github.com/jmalauss/stock_analysis/blob/c1fe8ab9093fb8504474b8c461e104cfb402768a/Sub_AllStocksAnalysis_2018.png
+![performance of 2017 analysis before refactoring](https://github.com/jmalauss/stock_analysis/blob/c1fe8ab9093fb8504474b8c461e104cfb402768a/Sub_yearValueAnalysis_2017.png)
+![performance of 2018 analysis before refactoring](https://github.com/jmalauss/stock_analysis/blob/c1fe8ab9093fb8504474b8c461e104cfb402768a/Sub_yearValueAnalysis_2018.png)
+![performance of 2017 analysis after refactoring](https://github.com/jmalauss/stock_analysis/blob/c1fe8ab9093fb8504474b8c461e104cfb402768a/Sub_AllStocksAnalysis_2017.png)
+![performance of 2018 analysis after refactoring](https://github.com/jmalauss/stock_analysis/blob/c1fe8ab9093fb8504474b8c461e104cfb402768a/Sub_AllStocksAnalysis_2018.png)
 
 # Overview of Project
 
