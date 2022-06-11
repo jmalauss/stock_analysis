@@ -266,13 +266,13 @@ The project goal for Steve was accomplished. One of our goals was to make sure t
 
 ![performance of 2017 analysis after refactoring](https://github.com/jmalauss/stock_analysis/blob/c1fe8ab9093fb8504474b8c461e104cfb402768a/Sub_AllStocksAnalysis_2017.png)
 
-Refactored code was faster by 0.925781 seconds!
+**Refactored code was faster by 0.925781 seconds!**
 
 ### 2018 Analysis After Refactoring
 
 ![performance of 2018 analysis after refactoring](https://github.com/jmalauss/stock_analysis/blob/c1fe8ab9093fb8504474b8c461e104cfb402768a/Sub_AllStocksAnalysis_2018.png)
 
-Refactored code was faster by 0.9843755 seconds!
+**Refactored code was faster by 0.9843755 seconds!**
 
 # Summary
 
