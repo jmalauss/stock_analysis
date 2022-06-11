@@ -252,7 +252,7 @@ End Sub
 
 ## Analysis is well described with screenshots
 
-	The project goal for Steve was accomplished. One of our goals was to make sure the new subroutine ran faster, please see the screenshots below for the run-time:
+The project goal for Steve was accomplished. One of our goals was to make sure the new subroutine ran faster, please see the screenshots below for the run-time:
 	
 ### 2017 Analysis Before Refactoring
 
@@ -266,9 +266,13 @@ End Sub
 
 ![performance of 2017 analysis after refactoring](https://github.com/jmalauss/stock_analysis/blob/c1fe8ab9093fb8504474b8c461e104cfb402768a/Sub_AllStocksAnalysis_2017.png)
 
+Refactored code was faster by 0.925781 seconds!
+
 ### 2018 Analysis After Refactoring
 
 ![performance of 2018 analysis after refactoring](https://github.com/jmalauss/stock_analysis/blob/c1fe8ab9093fb8504474b8c461e104cfb402768a/Sub_AllStocksAnalysis_2018.png)
+
+Refactored code was faster by 0.9843755 seconds!
 
 # Summary
 
