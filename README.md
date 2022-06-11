@@ -8,9 +8,7 @@
 
 # Results
 
-## Analysis is well described with screenshots and code
-
-  The subroutine that we wanted to refactor was called "yearValueAnalysis", below is the code:
+## Analysis is well described with code
   
 ### Code for yearValueAnalysis subroutine
 
@@ -50,6 +48,7 @@ startTime = Timer
    tickers(9) = "SPWR"
    tickers(10) = "TERP"
    tickers(11) = "VSLR"
+   
    '3a) Initialize variables for starting price and ending price
    Dim startingPrice As Single
    Dim endingPrice As Single
@@ -239,6 +238,8 @@ Sub AllStocksAnalysisRefactored()
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
 End Sub
+
+## Analysis is well described with screenshots
 
 
 
