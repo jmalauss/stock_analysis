@@ -19,7 +19,7 @@
   
 ### Code for yearValueAnalysis subroutine
 
-'''
+```
 Sub yearValueAnalysis()
 
 Dim startTime As Single
@@ -110,11 +110,11 @@ endTime = Timer
 MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
 End Sub
-'''
+```
 
 ### Code for AllStocksAnalysisRefactored subroutine
 
-'''
+```
 Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
     Dim endTime  As Single
@@ -248,7 +248,7 @@ Sub AllStocksAnalysisRefactored()
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
 End Sub
-'''
+```
 
 ## Analysis is well described with screenshots
 
