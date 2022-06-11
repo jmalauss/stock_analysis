@@ -243,6 +243,10 @@ Sub AllStocksAnalysisRefactored()
 End Sub
 ```
 
+## Explanation of the code above
+
+The refactored code differs from the original code in a few ways: Mainly, the refactored code creates three arrays that correspond with the ticker array from the first code. These additional arrays and variables (tickerIndex) allow us to adjust the nested loop in the initial code so it does more, with less lines of code than we would have needed to accomplish the same analysis with the original code structure. In other words, we created a "tickerIndex" variable used as an input for the tickerVolumes array. After setting the tickerIndex to 0, we were able to ensure that tickerIndex could be used as an input to yield the corresponding tickerVolumes. 
+
 ## Analysis is well described with screenshots
 
 The project goal for Steve was accomplished. One of our goals was to make sure the new subroutine ran faster, please see the screenshots below for the run-time:
